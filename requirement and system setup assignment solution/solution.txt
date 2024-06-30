@@ -1,0 +1,13 @@
+Ans1.
+Tools used as web developer
+1. IDE like Vs code
+2. VCS like github
+3. Frontend frameworks like React
+4. Backend technologies like express, mongo
+
+Ans2. 
+Features of Pw skills lab
+1. Interactive coding envirionment
+2. Real time collaboration
+3. Version control integration
+4. Interactive tutorial and guided project
